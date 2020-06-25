@@ -110,7 +110,7 @@ def hmp5E(url,browser,uname,passww):
     
     excel_end(worksheet,workbook)
     endTime1 = time.time()
-    print("牛批。看桌面")
+    print("保存至桌面")
     print("耗时：",end=' ')
     print(endTime1-startTime1)
     
